@@ -11,7 +11,7 @@ export default function Home() {
         <ul>
             <li><a href="bee">Bee</a></li>
             <li><a href="binicorn">Binicorn</a></li>
-            <li><a href="ent">Ent</a></li>
+            <li><a href="treeent">Treeent</a></li>
             <li><a href="lizardman">Lizardman</a></li>
             <li><a>Mothman</a></li>
             <li><a>Noface</a></li>

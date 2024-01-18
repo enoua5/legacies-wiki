@@ -2,7 +2,7 @@
 export default function Page() {
     return (<>
 
-        <h1>Ent</h1>
+        <h1>Treeent</h1>
     
     </>)
 }

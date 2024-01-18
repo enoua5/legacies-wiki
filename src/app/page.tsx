@@ -48,6 +48,14 @@ export default function Home() {
             <li><a href="sea-monster">Sea Monster</a></li>
         </ul>
 
+        <h2>Cities</h2>
+        <ul>
+            <li><a>Bee city (name tbd)</a></li>
+            <li><a href="dave">Dave</a></li>
+            <li><a>Humanoid city (name tbd)</a></li>
+            <li><a>Oasis city (name tbd)</a></li>
+        </ul>
+
         <h2>Locales</h2>
         <table>
             <tbody>

@@ -1,0 +1,96 @@
+
+body {
+  background-color: black;
+  margin: 0;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  background-color: color-mix(in oklch, #8880 90%, var(--color-primary));
+}
+
+th,td {
+  border: 1px solid black;
+  padding: 0.5em;
+}
+
+#content {
+  max-width: 150ch;
+  background-color: white;
+  margin: auto;
+}
+
+#main {
+  padding: 2ch;
+  background-color: var(--color-secondary-white9);
+}
+
+:root {
+  --color-primary: oklch(50% 0.2034 3.2);
+  --color-secondary: oklch(57.97% 0.128 289.92);
+
+  --color-primary-grey1: color-mix(in oklch, var(--color-primary) 90%, #888);
+  --color-primary-grey2: color-mix(in oklch, var(--color-primary) 80%, #888);
+  --color-primary-grey3: color-mix(in oklch, var(--color-primary) 70%, #888);
+  --color-primary-grey4: color-mix(in oklch, var(--color-primary) 60%, #888);
+  --color-primary-grey5: color-mix(in oklch, var(--color-primary) 50%, #888);
+  --color-primary-grey6: color-mix(in oklch, var(--color-primary) 40%, #888);
+  --color-primary-grey7: color-mix(in oklch, var(--color-primary) 30%, #888);
+  --color-primary-grey8: color-mix(in oklch, var(--color-primary) 20%, #888);
+  --color-primary-grey9: color-mix(in oklch, var(--color-primary) 10%, #888);
+
+  --color-secondary-grey1: color-mix(in oklch, var(--color-secondary) 90%, #888);
+  --color-secondary-grey2: color-mix(in oklch, var(--color-secondary) 80%, #888);
+  --color-secondary-grey3: color-mix(in oklch, var(--color-secondary) 70%, #888);
+  --color-secondary-grey4: color-mix(in oklch, var(--color-secondary) 60%, #888);
+  --color-secondary-grey5: color-mix(in oklch, var(--color-secondary) 50%, #888);
+  --color-secondary-grey6: color-mix(in oklch, var(--color-secondary) 40%, #888);
+  --color-secondary-grey7: color-mix(in oklch, var(--color-secondary) 30%, #888);
+  --color-secondary-grey8: color-mix(in oklch, var(--color-secondary) 20%, #888);
+  --color-secondary-grey9: color-mix(in oklch, var(--color-secondary) 10%, #888);
+
+  --color-primary-white1: color-mix(in oklch, var(--color-primary) 90%, #fff);
+  --color-primary-white2: color-mix(in oklch, var(--color-primary) 80%, #fff);
+  --color-primary-white3: color-mix(in oklch, var(--color-primary) 70%, #fff);
+  --color-primary-white4: color-mix(in oklch, var(--color-primary) 60%, #fff);
+  --color-primary-white5: color-mix(in oklch, var(--color-primary) 50%, #fff);
+  --color-primary-white6: color-mix(in oklch, var(--color-primary) 40%, #fff);
+  --color-primary-white7: color-mix(in oklch, var(--color-primary) 30%, #fff);
+  --color-primary-white8: color-mix(in oklch, var(--color-primary) 20%, #fff);
+  --color-primary-white9: color-mix(in oklch, var(--color-primary) 10%, #fff);
+
+  --color-secondary-white1: color-mix(in oklch, var(--color-secondary) 90%, #fff);
+  --color-secondary-white2: color-mix(in oklch, var(--color-secondary) 80%, #fff);
+  --color-secondary-white3: color-mix(in oklch, var(--color-secondary) 70%, #fff);
+  --color-secondary-white4: color-mix(in oklch, var(--color-secondary) 60%, #fff);
+  --color-secondary-white5: color-mix(in oklch, var(--color-secondary) 50%, #fff);
+  --color-secondary-white6: color-mix(in oklch, var(--color-secondary) 40%, #fff);
+  --color-secondary-white7: color-mix(in oklch, var(--color-secondary) 30%, #fff);
+  --color-secondary-white8: color-mix(in oklch, var(--color-secondary) 20%, #fff);
+  --color-secondary-white9: color-mix(in oklch, var(--color-secondary) 10%, #fff);
+
+  --color-primary-black1: color-mix(in oklch, var(--color-primary) 90%, #000);
+  --color-primary-black2: color-mix(in oklch, var(--color-primary) 80%, #000);
+  --color-primary-black3: color-mix(in oklch, var(--color-primary) 70%, #000);
+  --color-primary-black4: color-mix(in oklch, var(--color-primary) 60%, #000);
+  --color-primary-black5: color-mix(in oklch, var(--color-primary) 50%, #000);
+  --color-primary-black6: color-mix(in oklch, var(--color-primary) 40%, #000);
+  --color-primary-black7: color-mix(in oklch, var(--color-primary) 30%, #000);
+  --color-primary-black8: color-mix(in oklch, var(--color-primary) 20%, #000);
+  --color-primary-black9: color-mix(in oklch, var(--color-primary) 10%, #000);
+
+  --color-secondary-black1: color-mix(in oklch, var(--color-secondary) 90%, #000);
+  --color-secondary-black2: color-mix(in oklch, var(--color-secondary) 80%, #000);
+  --color-secondary-black3: color-mix(in oklch, var(--color-secondary) 70%, #000);
+  --color-secondary-black4: color-mix(in oklch, var(--color-secondary) 60%, #000);
+  --color-secondary-black5: color-mix(in oklch, var(--color-secondary) 50%, #000);
+  --color-secondary-black6: color-mix(in oklch, var(--color-secondary) 40%, #000);
+  --color-secondary-black7: color-mix(in oklch, var(--color-secondary) 30%, #000);
+  --color-secondary-black8: color-mix(in oklch, var(--color-secondary) 20%, #000);
+  --color-secondary-black9: color-mix(in oklch, var(--color-secondary) 10%, #000);
+
+  --color-primary-text: white;
+}

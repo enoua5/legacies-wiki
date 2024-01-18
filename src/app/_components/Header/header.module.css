@@ -1,0 +1,21 @@
+
+.container {
+    background-color: var(--color-primary);
+    color: var(--color-primary-text);
+    padding: 1em;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+    padding: 0.5em;
+    border: 1px solid var(--color-primary-text);
+    border-radius: 0.5em;
+    background-color: var(--color-secondary-black2);
+
+}
+
+.link:hover {
+    background-color: var(--color-secondary-black4);
+}

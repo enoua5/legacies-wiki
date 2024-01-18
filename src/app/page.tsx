@@ -50,7 +50,7 @@ export default function Home() {
 
         <h2>Cities</h2>
         <ul>
-            <li><a>Bee city (name tbd)</a></li>
+            <li><a href="bee-city">Bee city (name tbd)</a></li>
             <li><a href="dave">Dave</a></li>
             <li><a>Humanoid city (name tbd)</a></li>
             <li><a>Oasis city (name tbd)</a></li>
@@ -79,7 +79,7 @@ export default function Home() {
                         {/* North */}
                         <ul>
                             <li><a>Northern River</a></li>
-                            <li><a>Northern Woods</a></li>
+                            <li><a href="northern-forest">Northern Woods</a></li>
                         </ul>
                     </td>
                     <td>
@@ -147,8 +147,8 @@ export default function Home() {
         
         <h2>Other Important Things</h2>
         <ul>
-            <li><a>The Nine Commandments</a></li>
-            <li><a>The Comet of Change</a></li>
+            <li><a href="nine-commandments">The Nine Commandments</a></li>
+            <li><a href="comet-of-change">The Comet of Change</a></li>
             <li><a>Moons</a></li>
         </ul>
         </>

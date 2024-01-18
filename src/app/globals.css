@@ -28,6 +28,13 @@ th,td {
   background-color: var(--color-secondary-white9);
 }
 
+h1,h1,h2,h3,h4,h5,h6 + .heading-annotation {
+  margin-bottom: 0;
+}
+.heading-annotation {
+  font-style: italic;
+}
+
 :root {
   --color-primary: oklch(50% 0.2034 3.2);
   --color-secondary: oklch(57.97% 0.128 289.92);

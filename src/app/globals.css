@@ -1,6 +1,6 @@
 
 body {
-  background-color: black;
+  background-color: var(--color-secondary-black7);
   margin: 0;
 }
 

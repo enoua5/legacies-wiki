@@ -17,7 +17,7 @@ export default function Home() {
             <li><a>Noface</a></li>
             <li><a href="humanoid">Humanoid</a></li>
             <li><a href="scottish-ogre">Scottish Ogre</a></li>
-            <li><a>Vegemite</a></li>
+            <li><a href="vegemite">Vegemite</a></li>
         </ul>
         <h3>Gods</h3>
         <ul>

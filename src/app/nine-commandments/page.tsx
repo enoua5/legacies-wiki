@@ -19,7 +19,7 @@ export default function Page() {
         <h2 id="fourth">The Fouth Commandment</h2>
         <p>Thou shalt make pilgramage to <a href="../great-duck">The Great Duck</a> to offer a sacrifice of thine gold and thine treasures.</p>
         <h2 id="fifth">The Fifth Commandment</h2>
-        <p>Thou shalt seek to gain knowledge and to explore Creation</p>
+        <p>Thou shalt seek to gain knowledge and to explore Creation.</p>
         <h2 id="sixth">The Sixth Commandment</h2>
         <p>Thou shall not help the <a href="../australia">Australians</a>.</p>
         <h2 id="seventh">The Seventh Commandment</h2>
